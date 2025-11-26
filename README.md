@@ -44,7 +44,7 @@ top
 
 `하단`: 프로세스별 정보 (PID, USER, %CPU, %MEM, TIME+, COMMAND 등)
 
-3.2 자주 쓰는 옵션
+### 3.2 자주 쓰는 옵션
 ``` bash
 top            # 기본 실행
 top -u USER    # 특정 사용자(USER)가 실행한 프로세스만 보기
